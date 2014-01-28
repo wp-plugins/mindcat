@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MindCat\n"
+"POT-Creation-Date: 2014-01-24 15:18+0100\n"
+"PO-Revision-Date: 2014-01-24 15:35+0100\n"
+"Last-Translator: Bastien Ho <bastienho@urbancube.fr>\n"
+"Language-Team: bastho <bastienho@urbancube.fr>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: ../mindcat.php:120
+msgid "Background color"
+msgstr "Couleur de fond"
+
+#: ../mindcat.php:128
+msgid "Color"
+msgstr "Couleur"
+
+#: ../mindcat.php:146
+msgid "MindCat"
+msgstr "Cat. heuristique"
+
+#: ../mindcat.php:146
+msgid "Displays categories and subcategories as a mindmap"
+msgstr ""
+"Affiche les catégories et sous-catégories sous forme de carte heuristique"
+
+#: ../mindcat.php:177
+msgid "Title"
+msgstr "Titre"
+
+#: ../mindcat.php:183
+msgid "Size"
+msgstr "Taille"
+
+#: ../mindcat.php:189
+msgid "Root"
+msgstr "Racine"
+
+#: ../mindcat.php:191
+msgid "Site root"
+msgstr "Racine du site"
