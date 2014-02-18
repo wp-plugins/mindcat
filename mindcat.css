@@ -28,13 +28,22 @@
     width:1px;
     height:1px;
     z-index:1;
-    font-size:0.7em;
     transform-origin:0 0;
     -moz-transform-origin:0 0;
     -webkit-transform-origin:0 0;
-    border-left:#CCC 1px dotted;
+    border-left:#BBB 1px dotted;
 }
-
+.mindcat_root{
+    font-size:1em;
+    font-weight:900;
+}
+.mindcat_child{    
+    font-size:0.7em;
+    font-weight:500;
+}
+.mindcat_child .mindcat_child .mindcat_child{    
+    font-weight:100;
+}
 
 .mindcat li a{
     position:absolute;
@@ -56,3 +65,18 @@
     box-shadow: rgba(0,0,0,0.3) 0 0 10px;
 }
 
+
+.mindcat_count{
+    position:absolute;
+    bottom:-10px;
+    right:-10px;
+    min-width:15px;
+    height:15px;
+    padding:3px;
+    text-align:center;
+    border-radius:9px;
+    background: #EEE;
+    color:#333;   
+    font-size:11px; 
+    font-weight:700;
+}
