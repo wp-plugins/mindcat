@@ -1,9 +1,9 @@
 === MindCat ===
 Contributors: bastho,
-Donate link: http://eelv.fr/adherer/
-Tags: categories, catrgory, mindmap
+Donate link: http://ba.stienho.fr/#donate
+Tags: categories, category, mindmap
 Requires at least: 3.1
-Tested up to: 3.8.1
+Tested up to: 4.0.0
 Stable tag: /trunk
 License: GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -28,8 +28,7 @@ Shortcode use :
 
 1. Upload `mindcat` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress admin
-3. Create a new page and insert the short code `[eelv_news_form]`
-4. You can edit defaults settings in Settings > Event post
+3. Start use the `[mindcat]` shortcode
 
 == Frequently asked questions ==
 
