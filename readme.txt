@@ -1,5 +1,5 @@
 === MindCat ===
-Contributors: bastho,
+Contributors: bastho, ecolosites
 Donate link: http://ba.stienho.fr/#donate
 Tags: categories, category, mindmap
 Requires at least: 3.1
