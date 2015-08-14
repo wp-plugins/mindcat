@@ -40,6 +40,11 @@ Yes, you can choose any category, all sub-categories will be children of your mi
 == Changelog ==
 
 
+= 1.1.1 =
+release date: aug. 14 2015
+* WP 4.3 compliant
+* Code cleanup
+
 = 1.1.0 =
 * add: shortcode [mindcat]
 * add: Parameters count, hide_empty, max_level
