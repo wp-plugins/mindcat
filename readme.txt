@@ -42,6 +42,7 @@ Yes, you can choose any category, all sub-categories will be children of your mi
 
 = 1.1.1 =
 release date: aug. 14 2015
+
 * WP 4.3 compliant
 * Code cleanup
 
