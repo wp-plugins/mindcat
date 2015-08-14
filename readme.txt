@@ -1,7 +1,7 @@
 === MindCat ===
 Contributors: bastho, ecolosites
 Donate link: http://ba.stienho.fr/#donate
-Tags: categories, category, mindmap
+Tags: categories, category, mindmap, widget
 Requires at least: 3.1
 Tested up to: 4.0.0
 Stable tag: /trunk
@@ -39,6 +39,8 @@ Yes, you can choose any category, all sub-categories will be children of your mi
 
 == Changelog ==
 
+= 1.1.2 =
+* more WP 4.3 compliant
 
 = 1.1.1 =
 release date: aug. 14 2015

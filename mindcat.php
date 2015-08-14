@@ -3,13 +3,13 @@
 Plugin Name: MindCat
 Plugin URI: http://ecolosites.eelv.fr/mindcat/
 Description: Displays categories and subcategories as a mindmap
-Version: 1.1.1
+Version: 1.1.2
 Author: bastho
 Author URI: http://ecolosites.eelv.fr/
 License: GPLv2
 Text Domain: mindcat
 Domain Path: /languages/
-Tags: category, categories, mindmap
+Tags: category, categories, mindmap, widget
 */
 
 
@@ -185,8 +185,12 @@ class MindCat{
 
 
 class MindCat_Widget extends WP_Widget {
-   function MindCat_Widget() {
+   function __construct() {
   	  parent::__construct(false, __( 'MindCat', 'mindcat' ),array('description'=>__( 'Displays categories and subcategories as a mindmap', 'mindcat' )));
+   }
+   // PHP4
+   public function MindCat_Widget(){
+       $this->__construct();
    }
    function widget($args, $instance) {
         extract( $args );
